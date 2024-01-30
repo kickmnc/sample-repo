@@ -1,2 +1,2 @@
 # sample-repo
-Gti練習用
+更新
